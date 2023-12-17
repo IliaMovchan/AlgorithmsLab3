@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ReverseNotator/1.0.0": {
+        "runtime": {
+          "ReverseNotator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReverseNotator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

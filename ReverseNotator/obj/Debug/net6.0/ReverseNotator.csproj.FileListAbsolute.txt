@@ -1,0 +1,14 @@
+C:\Users\One\Documents\GitHub\algorithm\lab #3\ReverseNotator\bin\Debug\net6.0\ReverseNotator.exe
+C:\Users\One\Documents\GitHub\algorithm\lab #3\ReverseNotator\bin\Debug\net6.0\ReverseNotator.deps.json
+C:\Users\One\Documents\GitHub\algorithm\lab #3\ReverseNotator\bin\Debug\net6.0\ReverseNotator.runtimeconfig.json
+C:\Users\One\Documents\GitHub\algorithm\lab #3\ReverseNotator\bin\Debug\net6.0\ReverseNotator.dll
+C:\Users\One\Documents\GitHub\algorithm\lab #3\ReverseNotator\bin\Debug\net6.0\ReverseNotator.pdb
+C:\Users\One\Documents\GitHub\algorithm\lab #3\ReverseNotator\obj\Debug\net6.0\ReverseNotator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\One\Documents\GitHub\algorithm\lab #3\ReverseNotator\obj\Debug\net6.0\ReverseNotator.AssemblyInfoInputs.cache
+C:\Users\One\Documents\GitHub\algorithm\lab #3\ReverseNotator\obj\Debug\net6.0\ReverseNotator.AssemblyInfo.cs
+C:\Users\One\Documents\GitHub\algorithm\lab #3\ReverseNotator\obj\Debug\net6.0\ReverseNotator.csproj.CoreCompileInputs.cache
+C:\Users\One\Documents\GitHub\algorithm\lab #3\ReverseNotator\obj\Debug\net6.0\ReverseNotator.dll
+C:\Users\One\Documents\GitHub\algorithm\lab #3\ReverseNotator\obj\Debug\net6.0\refint\ReverseNotator.dll
+C:\Users\One\Documents\GitHub\algorithm\lab #3\ReverseNotator\obj\Debug\net6.0\ReverseNotator.pdb
+C:\Users\One\Documents\GitHub\algorithm\lab #3\ReverseNotator\obj\Debug\net6.0\ReverseNotator.genruntimeconfig.cache
+C:\Users\One\Documents\GitHub\algorithm\lab #3\ReverseNotator\obj\Debug\net6.0\ref\ReverseNotator.dll
